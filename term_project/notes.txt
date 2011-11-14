@@ -1,0 +1,82 @@
+Anonymous
+
+Roots:
+various online communities such as 4chan, 7chan, dramatica
+
+Activities:
+For a Cause:
+-Chris Forcand
+-Hal Turner
+-Chanology
+-Iranian Green Party
+
+Cause they're Asses:
+-Epilepsy
+-SOHH
+-No Cussing Club (anon simply disagreed with his beliefs)
+
+Related to CS:
+Software anonymizes your online identity/physical location
+Hacking/DDOS - not CS, but still requires advanced computer skills
+Sites like 4chan - definitely not CS
+Being a CS student/grad: do you visit sites like 4chan? do you agree with some of
+      the activities associated with the Anonymous name?
+      Could you see yourself participating?
+
+###############
+#Speech Notes:#
+###############
+
+Tell you about Anonymous - who they are, and how it makes me feel.
+
+Origins: 4chan
+--------------
+A home to memes, trolling, nsfws, racism, and lulz.
+Anonymous: unnamed comments.
+
+Acting as Anonymous
+-------------------
+Protests - Peaceful (why Anonymous?)
+DDoS
+SQL Injection
+General trolling/defacement
+Their actions are usually illegal, though protesters associate with Anonymous
+They feel very strongly about censorship
+
+For a Cause
+-----------
+-Forcand (predator) 2007
+-Project Chanology 2008
+-Iran and Australia 2009
+-Operation Bradical (Bradley Manning of the Army - abusive treatment) 2010
+-Operation Payback (retaliate Aiplex Software DDoS, MPAA, RIAA, lawfirms) 2010
+-Fine Gael - "Finnuh Goyle" Ireland Election (censorship) 2011
+-Wikileaks:
+        Operation Avenge Assange, Leakspin, Tunisia
+-Operation Egypt - free speech
+-Operation Sony - George Hotz modified a PS3, lawsuits.
+
+Lulz
+----
+-Epilepsy
+-SOHH (Support Online Hip-Hop)
+-No Cussing Club
+
+You Can be Anonymous
+--------------------
+-Put on a mask and protest
+-Access their IRC channels
+-Take part in a DDoS
+-We're CS majors:
+ With great power comes great responsibility.
+ We can get involved with hacking software.
+ We can become proficient with anonymizing utilities.
+ We care about open internet, censorship.
+
+Conclusion
+----------
+Hacktivism is an extension of Protest.
+  "the use of computers and computer networks as a means of protest to promote 
+   political ends."
+These acts are an extension of human nature.
+The same spectrum is seen across the internet - anywhere you go.
